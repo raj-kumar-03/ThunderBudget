@@ -1,0 +1,9 @@
+{
+  "name": "Rolling Budget",
+  "description": "Offline personal finance manager featuring a dynamic rolling daily budget, expense tracking, category breakdown, and savings forecasts.",
+  "requestFramePermissions": [
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
